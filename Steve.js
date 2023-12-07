@@ -1,0 +1,12 @@
+AFRAME.registerComponent("Rotation"),{
+
+
+
+
+
+
+
+
+
+    
+}
